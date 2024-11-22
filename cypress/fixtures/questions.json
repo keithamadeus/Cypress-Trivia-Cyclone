@@ -7,32 +7,5 @@
       { "text": "Answer3", "isCorrect": false },
       { "text": "Answer4", "isCorrect": false }
     ]
-  },
-  {
-    "question": "Second Random question?",
-    "answers": [
-      { "text": "Answer1", "isCorrect": true },
-      { "text": "Answer2", "isCorrect": false },
-      { "text": "Answer3", "isCorrect": false },
-      { "text": "Answer4", "isCorrect": false }
-    ]
-  },
-  {
-    "question": "Third Random question?",
-    "answers": [
-      { "text": "Answer1", "isCorrect": false },
-      { "text": "Answer2", "isCorrect": false },
-      { "text": "Answer3", "isCorrect": true },
-      { "text": "Answer4", "isCorrect": false }
-    ]
-  },
-  {
-    "question": "Fourth Random question?",
-    "answers": [
-      { "text": "Answer1", "isCorrect": false },
-      { "text": "Answer2", "isCorrect": false },
-      { "text": "Answer3", "isCorrect": false },
-      { "text": "Answer4", "isCorrect": true }
-    ]
   }
 ]
