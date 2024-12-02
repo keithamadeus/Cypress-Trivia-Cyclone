@@ -9,7 +9,7 @@
 
 [GitHub Repository](https://github.com/keithamadeus/Cypress-Trivia-Cyclone)
 
-[Walk-through Link](https://drive.google.com/file/d/1e0IsTPs_d_U-9Kgarbzp2CmyVT0GQYOw/view?usp=drive_link )
+[Walk-through Link](https://drive.google.com/file/d/1e0IsTPs_d_U-9Kgarbzp2CmyVT0GQYOw/view?usp=drive_link)
 
 ## Description
 
